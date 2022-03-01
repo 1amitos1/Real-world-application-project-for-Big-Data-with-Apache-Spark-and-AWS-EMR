@@ -14,7 +14,7 @@ Here is my project idea to get started with Big Data concepts and ETL.
 Here is the design I came up with, and you could choose to replace any of the components with something you are more comfortable with.
 ![etl_pic2](https://user-images.githubusercontent.com/34807427/156143294-f5b6ce55-f139-4d0c-86dd-3214487f49eb.jpg)
 
-When building ETL job, you perform Extract, Transform and Load operations. In this workshop, you learn how to use PySpark to perform these operations. You will learn about the following PySpark development:
+When building ETL job, you perform Extract, Transform and Load operations. In this project, i learned how to use PySpark to perform these operations. 
 1.	Extract
 
       a. Check source data schema.
