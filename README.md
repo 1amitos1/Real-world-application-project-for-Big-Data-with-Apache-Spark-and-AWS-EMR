@@ -16,11 +16,38 @@ Here is the design I came up with, and you could choose to replace any of the co
 
 When building ETL job, you perform Extract, Transform and Load operations. In this workshop, you learn how to use PySpark to perform these operations. You will learn about the following PySpark development:
 1.	Extract
-a. Check source data schema
-b. Query source data
+
+      a. Check source data schema.
+
+      b. Query source data.
+
 2.	Transform
-a. Update data
-b. Aggregate Functions
-c. Merge & Split Data
+
+      a. Update data
+
+      b. Aggregate Functions
+
+      c. Merge & Split Data
+  
 3.	Load
-a. Write / Load Data at the Destination
+
+      a. Write / Load Data at the Destination
+
+## Objectives and Outcomes
+The project is designed to cover some key concepts of Big Data. By the end of this project we aim at learning and getting better with the following concepts :
+
+1.Spark-SQL
+
+2.External Tables
+
+3.Raw data processing
+
+4.Daily jobs and incremental ETLs
+
+5.Data Lake
+
+6.Boto and other python utilities to communicate with S3 and aws glue spark cluster
+
+7.Amazon AWS
+
+8.Python
