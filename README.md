@@ -34,7 +34,7 @@ When building ETL job, you perform Extract, Transform and Load operations. In th
       a. Write / Load Data at the Destination
 
 ## Objectives and Outcomes
-The project is designed to cover some key concepts of Big Data. By the end of this project we aim at learning and getting better with the following concepts :
+The project is designed to cover some key concepts of Big Data such as :
 
 1.Spark-SQL
 
