@@ -1,7 +1,8 @@
 # Real-world-application-project-for-Big-Data-with-Apache-Spark-and-AWS-EMR
 
-Project Idea
+## Project Idea
 Here is my project idea to get started with Big Data concepts and ETL.
+
 1.	We would like to generate Sales and Customer data on hourly/daily basis to emulate a production scenario.
 2.	We would want to create a library of utility function that can be utilized by all future ETLs.
 3.	We would like to create a small Data Lake on S3 and apply the Big Data optimization techniques on our tables and datasets.
@@ -12,3 +13,14 @@ Here is my project idea to get started with Big Data concepts and ETL.
 ## Project Design
 Here is the design I came up with, and you could choose to replace any of the components with something you are more comfortable with.
 ![etl_pic2](https://user-images.githubusercontent.com/34807427/156143294-f5b6ce55-f139-4d0c-86dd-3214487f49eb.jpg)
+
+When building ETL job, you perform Extract, Transform and Load operations. In this workshop, you learn how to use PySpark to perform these operations. You will learn about the following PySpark development:
+1.	Extract
+a. Check source data schema
+b. Query source data
+2.	Transform
+a. Update data
+b. Aggregate Functions
+c. Merge & Split Data
+3.	Load
+a. Write / Load Data at the Destination
