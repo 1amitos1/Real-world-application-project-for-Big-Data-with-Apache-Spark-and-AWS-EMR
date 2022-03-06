@@ -1,4 +1,4 @@
-# Real-world-application-project-for-Big-Data-with-Apache-Spark-and-AWS-EMR
+# Real-world-application-project-for-Big-Data-with-Apache-Spark-and-AWS-glue
 
 ## Project Idea
 Here is my project idea to get started with Big Data concepts and ETL.
